@@ -10,7 +10,7 @@
   "SYMBOL": "FAN",
   "MAX_SUPPLY": 100,
   "DISPLAY_COST": 0.01,
-  "GAS_LIMIT": 145000,
+  "GAS_LIMIT": 210000,
   "MAX_PER_TX": 10,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
